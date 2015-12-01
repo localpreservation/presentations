@@ -26,25 +26,25 @@ Let’s start by asking: what is historic preservation? Preservation is inspired
 
 3: Saving places that matter to people.
 
-Good stories about historic places are really about people. Historic preservation means saving places that matter to people. Historian Eric Sandweiss explained it neatly when he wrote:
+Good stories about historic places are really about people. Historian Eric Sandweiss explained it neatly when he wrote:
 
 >“\[the history of a city street] means little if it’s not tied to the story of the farmer who sold the land, the developer who bought it from him, the families who campaigned to have it paved, the men who laid the asphalt, or the children who rode their bikes on it.”
 
 4: Changes in preservation from 1960 to 2015.
 
-Over 50 years have past since a group of civic-minded architects, activists and historians established Baltimore Heritage. In 1960, we fought against highways and urban renewal with mimeographed newsletters and sharply worded letters-to-the-editor. In 2015, we fight for revitalization with creative public programs, smartphone apps and social media.
+Over 50 years have past since a group of civic-minded architects, activists and historians established Baltimore Heritage. In 1960, we fought highways and urban renewal with mimeographed newsletters and sharply worded letters-to-the-editor. In 2015, we fight for revitalization with creative public programs, smartphone apps and social media.
 
 5: How do you save historic places?
 
-In most American cities, saving historic places starts with education. Preservation planners at understaffed public agencies teach coworkers, volunteer docents at a local historic site teach neighbors, and nonprofit advocates teach everyone we can. We teach people why old buildings matter and why it makes sense to fix them up.
+In most American cities, saving historic places starts with education. Preservation planners at public agencies teach coworkers, volunteer docents at a local historic site teach neighbors, and nonprofit advocates teach everyone we can. We teach people why old buildings matter and why it makes sense to fix them up.
 
 6: Laugh to keep from crying. Do what you can.
 
-When you feel like the weight of 16,000 vacant historic rowhouses is resting on your shoulders, it can be tough to feel like you are making a difference. I often ask people: what do you get when you cross a program director, a volunteer manager, and a janitor? A typical situation in most nonprofit organizations.
+When you feel the weight of 16,000 vacant rowhouses is resting on your shoulders, it can be tough to feel like you are making a difference. I often ask people: what do you get when you cross a program director, a volunteer manager, and a janitor? A typical situation in most nonprofit organizations.
 
 7: You use free and open tools.
 
-One of the most important lessons we have learned at Baltimore Heritage is that free digital tools are key to overcoming the limit of a small staff or budget. Open source projects like WordPress or Omeka empower us to connect with our neighbors. If we relied solely on costly, properietary tools, we could spend twice the money with half the difference.
+One of the most important lessons we have learned at Baltimore Heritage is that free digital tools are key to overcoming the limit of a small staff or budget. Open source projects like WordPress or Omeka empower us to connect with our neighbors. If we relied solely on costly, proprietary tools, we could spend twice the money with half the difference.
 
 8: Good news. You're not alone.
 
@@ -52,48 +52,52 @@ Good news. You can find local preservationists working hard in communities aroun
 
 9: What is the Local Preservation School?
 
-The Local Preservation School is a new project based on the idea that historic preservation succeeds when we can empower local preservationists to make a difference on their own block, in the own neighborhood or in their own city. The Local Preservation School is a place for people who want to save historic places to teach and learn together.
+The Local Preservation School is a new project based on the idea that historic preservation succeeds when we can empower local preservationists to make a difference on their block, in their neighborhood or in their own city. The Local Preservation School is a place for people who want to save historic places to teach and learn together.
 
 10: Free, open online learning environment for local preservation.
 
-There are many excellent online resources available on historic preservation from the National Trust for Historic Preservation, National Park Service, and others. But these resources can be overwhelming—especially for volunteers who do preservation on evenings and weekends. We think the Local Preservation School can help answer this challenge. We are working to publish high-quality, self-guided lessons and tutorials to teach novice learners the knowledge and skills needed to save historic places in their communities.
+There are many excellent online resources available on historic preservation. But they are often overwhelming—especially for volunteers who do preservation on evenings and weekends. The Local Preservation School works to answer this challenge with self-guided lessons and tutorials designed to teach novice learners the knowledge and skills they need to save historic places.
 
 11: Local Preservation Knowledge
 
-We believe that historic preservation is not just a job for “experts” or professionals. You might be one of the thousands of volunteers working hard to restore a historic park, revitalize a main street business district, or help historic home-owners navigate maintenance challenges. The Local Preservation School is for you (and your neighbors): a place to find new resources and a place to share your hard-won knowledge about how to preserve historic buildings and revitalize neighborhoods.
+Historic preservation is not only a job for “experts” and professionals. You may be one of the thousands of volunteers working hard to restore a historic park, revitalize a main street business district, or help historic home-owners navigate maintenance challenges. The Local Preservation School is for you (and your neighbors): a place to find new resources and a place to share your hard-won knowledge about how to preserve historic buildings and revitalize neighborhoods.
 
 12: Beginners Welcome!
 
-We are building the school around the idea that educational resources should be accessible to beginners – not overwhelmed by jargon or requirements for expensive software. We are making our lessons activity-based – teaching you how to document a threatened landmark, prepare and deliver a walking tour, or create a digital map of local historic sites. 
+We are building the school around the idea that educational resources should be accessible to beginners – not overwhelmed by jargon or the cost of required software. Our lessons are activity-based – teaching you how to document a threatened landmark, prepare and deliver a walking tour, or create a digital map of local historic sites. 
 
 13: Engaging & Accessible
 
-Historic places don't have to be boring. Taking full advantage of the web means that we can make it easy for interested learners to share their progress with friends and neighbors—whether they are crafting the perfect caption for a Throwback Thursday photo of a historic building or making an interactive map of vacant buildings on their street. 
+Historic places don't have to be boring. Writing and designing for web and social media means encouraging interested learners to share their progress with friends and neighbors—whether they are crafting the perfect caption for a Throwback Thursday photo of a historic building or making an interactive map of vacant buildings on their street. 
 
 14: Open for Reuse & Remix
 
-...
+What can openness do for preservation? It can reduce barriers, enable free access, guarantee educators have the rights to retain, reuse, revise, remix and redistribute educational resources – without having to ask permission. We hope inspire other historic preservation groups to consider the transformative potential of open licensing and open approaches.
 
 15: Owned by Everyone
 
-Our funding for this project comes from the National Park Service and we're planning on adapating a variety of public domain resources for our teaching materials. To make sure that the value of this project can be shared as broadly as possible, we are dedicating nearly all of our work for the Local Preservation School to the public domain under a Creative Commons Zero license.
+With funding from the National Park Service and plans to adapt a variety of public domain resources for our teaching materials, this project couldn’t exist without public support. We want to pay it forward by dedicating nearly all of our work on this project to the public domain under a Creative Commons Zero license.
 
 16: How can you join the Local Preservation School?
 
-We want you to be part of this. ...
+The Local Preservation School is inspired by open education projects from Peer 2 Peer University and open source projects from the Mozilla Foundation and 18F. At their best, these projects are an open invitation for people to get involved and share their time and talents to help make something bigger and better than they could alone.
 
 17: Local Prototyping
 
-We opened the Local Preservation School earlier this fall and we're working to launch our first course in January. The power to tell your own story is fundamental to effective historic preservation. With Explore Baltimore Heritage 101, we plan to teach Baltimore residents, area students and local scholars how to research and write about historic places. 
+We opened the Local Preservation School earlier this fall and we're working to launch our first course in January. The power to tell your own story is fundamental to effective historic preservation. With Explore Baltimore Heritage 101, we plan to teach Baltimore residents, students and scholars how to research and write about historic places. 
 
 18: Research and Collaboration
 
-At this point, we still have more questions than answers. If you’re interested in learning about historic preservation, teaching historic preservation, or just love older towns and cities, we would love to talk to you about the Local Preservation School. 
+At this point, we still have more questions than answers. If you’re interested in learning about historic preservation, teaching historic preservation, or love older towns and cities, we would love to talk to you about the Local Preservation School. 
 
 19: Working in Public
 
-The seminal 1966 publication, _With Heritage So Rich_ explained: "The past is not the property of historians; it is a public possession.  It belongs to anyone who is aware of it, and it grows by being shared." We want the Local Preservation School to match our values by making our work shared and public from start to finish.
+The seminal 1966 publication, _With Heritage So Rich_ explained:
+
+>”The past is not the property of historians; it is a public possession.  It belongs to anyone who is aware of it, and it grows by being shared."
+
+We want the Local Preservation School to match our values by making our work shared and public from start to finish.
 
 20: Connect with the Local Preservation School
 
-Submit a pull request! Share a question, link or comment on Twitter with the hashtag #localpast! Give me a call and say hello! We want to can work with you and your neighbors to make the Local Preservation School into a resource for communities across the nation. Let's save historic places together.
+Now please: submit a pull request on GitHub! Share a question, link or comment on Twitter with the hashtag #localpast! Give me a call and say hello! We want to work with you and your neighbors to make the Local Preservation School into a resource for communities across the nation. Let's save historic places together.
