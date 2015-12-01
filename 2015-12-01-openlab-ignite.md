@@ -56,13 +56,23 @@ The Local Preservation School is a new project based on the idea that historic p
 
 10: Free, open online learning environment for local preservation.
 
+There are many excellent online resources available on historic preservation from the National Trust for Historic Preservation, National Park Service, and others. But these resources can be overwhelming—especially for volunteers who do preservation on evenings and weekends. We think the Local Preservation School can help answer this challenge. We are working to publish high-quality, self-guided lessons and tutorials to teach novice learners the knowledge and skills needed to save historic places in their communities.
+
 11: Local Preservation Knowledge
+
+We believe that historic preservation is not just a job for “experts” or professionals. You might be one of the thousands of volunteers working hard to restore a historic park, revitalize a main street business district, or help historic home-owners navigate maintenance challenges. The Local Preservation School is for you (and your neighbors): a place to find new resources and a place to share your hard-won knowledge about how to preserve historic buildings and revitalize neighborhoods.
 
 12: Beginners Welcome!
 
+We are building the school around the idea that educational resources should be accessible to beginners – not overwhelmed by jargon or requirements for expensive software. We are making our lessons activity-based – teaching you how to document a threatened landmark, prepare and deliver a walking tour, or create a digital map of local historic sites. 
+
 13: Engaging & Accessible
 
+Historic places don't have to be boring. Taking full advantage of the web means that we can make it easy for interested learners to share their progress with friends and neighbors—whether they are crafting the perfect caption for a Throwback Thursday photo of a historic building or making an interactive map of vacant buildings on their street. 
+
 14: Open for Reuse & Remix
+
+...
 
 15: Owned by Everyone
 
@@ -70,7 +80,7 @@ Our funding for this project comes from the National Park Service and we're plan
 
 16: How can you join the Local Preservation School?
 
-We want you to be part of this. 
+We want you to be part of this. ...
 
 17: Local Prototyping
 
@@ -78,7 +88,11 @@ We opened the Local Preservation School earlier this fall and we're working to l
 
 18: Research and Collaboration
 
+At this point, we still have more questions than answers. If you’re interested in learning about historic preservation, teaching historic preservation, or just love older towns and cities, we would love to talk to you about the Local Preservation School. 
+
 19: Working in Public
+
+The seminal 1966 publication, _With Heritage So Rich_ explained: "The past is not the property of historians; it is a public possession.  It belongs to anyone who is aware of it, and it grows by being shared." We want the Local Preservation School to match our values by making our work shared and public from start to finish.
 
 20: Connect with the Local Preservation School
 
