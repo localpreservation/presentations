@@ -1,11 +1,9 @@
-# New York City Study Group
+# New York City Study Group (Draft Presentation)
 ## Local Preservation School
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [City Lore](http://citylore.org/), 2016 September 9
 
 Note:
-
-<!-- TODO: Insert link to slides/notes online -->
 
 ---
 
@@ -20,9 +18,13 @@ Note:
 
 --
 
-Follow the **slides**:
+Follow the **slides**: [bit.ly/localpastnyc-slides](http://bit.ly/localpastnyc-slides)
 
-Help us take **notes**: http://bit.ly/localpastnyc-notes
+Help take **notes**: [bit.ly/localpastnyc-notes](http://bit.ly/localpastnyc-notes)
+
+Note:
+
+We are taking notes on today's workshop in an [open Google Document](http://bit.ly/localpastnyc-notes). Please add your own comments, resources, and observations to the document throughout today's workshop.
 
 ---
 
