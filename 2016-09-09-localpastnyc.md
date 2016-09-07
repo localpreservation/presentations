@@ -1,4 +1,4 @@
-# New York City Study Group (Draft Presentation)
+# New York City Study Group (Draft)
 ## Local Preservation School
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [City Lore](http://citylore.org/), 2016 September 9
@@ -16,11 +16,13 @@ Note:
 1. _Say_: If you had to describe yourself in three words, which three would you choose? Take a minute to choose your three words.
 2. _Do_: Model an introduction by introducing yourself. Continue around the room taking turns until each participant introduces themselves.
 
---
+---
 
-Follow the **slides**: [bit.ly/localpastnyc-slides](http://bit.ly/localpastnyc-slides)
+Explore the **slides**: [bit.ly/localpastnyc-slides](http://bit.ly/localpastnyc-slides)
 
 Help take **notes**: [bit.ly/localpastnyc-notes](http://bit.ly/localpastnyc-notes)
+
+Share ideas on Twitter: **[#localpast](https://twitter.com/search?q=%23localpast)**
 
 Note:
 
@@ -32,7 +34,7 @@ We are taking notes on today's workshop in an [open Google Document](http://bit.
 
 Note:
 
-Creating a two-way educational environment.
+We are creating a two-way educational environment. Molly and I are going to teach a few things; we are all going to learn a few things; we are all going to try making a thing.
 
 1. Teaching:
   - How open educational resources work
@@ -106,7 +108,8 @@ Laurenellen McCann started writing about the concept of  **“build with, not fo
 
 Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
 
-Source: http://www.buildwith.org/
+http://www.buildwith.org/
+
 ---
 
 ## Questions?
@@ -154,9 +157,17 @@ Note:
 
 [Flickr Commons](https://www.flickr.com/commons)
 
+--
+
+![Open Textbook Library (Screenshot)](/presentations/images/2016-09-07-opentextbook-library.png)
+
+Note:
+
+[Open Textbook Library](http://open.umn.edu/opentextbooks/)
+
 ---
 
-## Examples of Open Educational Resources
+## Examples
 
 --
 
@@ -224,7 +235,7 @@ The Ten on Tuesday series is an example of an organization repackaging existing 
 
 Note:
 
-Let's take a minute to explore what resources we use to teach _and_ to learn.
+Let's take a few minutes to explore what resources we use to teach _and_ to learn.
 
 1. Raise your hand if you referred to a textbook or a printed encyclopedia as a reference in the past _month_. Printed publications can be **limiting**.
 2. Raise your hand if you referred to an article on Wikipedia as a reference in the past _month_. Free digital resources are **used**.
@@ -233,12 +244,13 @@ Let's take a minute to explore what resources we use to teach _and_ to learn.
 4. _Discuss_:
   - What other resources do you use to teach?
   - What other resources do you use to learn?
+  - What makes a resource more or less useful for you?
 
 Image: [Library of Congress](http://www.loc.gov/pictures/item/2010646348/)
 
 ---
 
-# Local Preservation School
+## Local Preservation School
 
 Note:
 
@@ -251,13 +263,19 @@ Source: [P2PU](http://howto.p2pu.org/)
 
 --
 
-## Who are the "students" at the Local Preservation School?
+## Who are the "students"?
+
+1. Volunteers
+2. Preservation professionals
+3. Related professionals
 
 Note:
 
-- Volunteers
-- Related professionals
-- Professionals ("training the trainers")
+There is _no such thing_ as the _general public_. There are three groups of people we hope to reach:
+
+- Volunteers advocating for preservation in their community.
+- Preservation professionals at volunteer-supported organizations.
+- Professionals in related fields who work with preservation advocates or partners.
 
 _Discuss_:
 
@@ -267,7 +285,9 @@ _Discuss_:
 
 --
 
-## What does a "lesson" look like at the Local Preservation School?
+## What are the "lessons"?
+
+-
 
 Note:
 
@@ -283,36 +303,105 @@ Note:
   - Self-guided v. Facilitated settings
   - Adapted for new uses?
 
+--
+
+## How can these resources be used?
+
+Note:
+
+- How do we expect these resources to be used?
+  - Self-guided v. Facilitated settings
+  - Adapted for new uses?
+
 ---
 
 ## What does the Place Matters Toolkit teach?
 
-- What skills and knowledge do you need to
-
 Note:
 
-What does the toolkit teach? See this [spreadsheet for a full list](https://docs.google.com/spreadsheets/d/1etRh2Os2ME7tFc_WvuYPkFTOVKW5T16zzkI9gi3gYSU/edit?usp=sharing).
+While there are no sure ways to protect a place, the Place Matters Toolkit was created to help people nationwide to:
+
+- Identify the cultural and historical functions of places that matter;
+- Find ways to capture and use that information to protect them;
+- Share the strategies that people have often found effective in preserving places that matter.
+
+See this [spreadsheet for a full list](https://docs.google.com/spreadsheets/d/1etRh2Os2ME7tFc_WvuYPkFTOVKW5T16zzkI9gi3gYSU/edit?usp=sharing).
+
+--
+
+### Defining a project
+
+- Identify values
+- Find people who care
+- Identify threats and opportunities
+- Formulate goals
+
+--
+
+### Explaining a place
+
+- Collect information
+- Develop themes
+
+--
+
+### Presenting a place
+
+- Write a place profile
+- Make a public presentation
+- Secure public recognition
+
+--
+
+### Protecting a place
+
+- Preserving the structure
+- Retaining longstanding use
+- Interpreting your story
 
 ---
 
-## What do you think the Local Preservation School should teach?
+## What skills and concepts do _you_ think we should teach?
 
 Note:
-
-<!-- TODO: Expand on this activity in more detail. -->
 
 _Activity_
 
-- [Card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-- dot voting/idea rating ([info](http://www.idearatingsheets.org/vs-dot-voting))
-- Hexagons (see [video](https://www.youtube.com/watch?v=OEceTh7txew), [generator](http://www.classtools.net/hexagon/), [template](https://tracyannclark.com/2014/09/23/10-reasons-to-try-hexagonal-thinking/))
-- or some combination
+1. Start by reviewing the "lessons" outlined in the Place Matters toolkit.
+2. Ask for suggestions of additional topics that may be missing or secondary topics that should be attached to one of the primary topics.
+3. Once we define our topics, we need to set some priorities. Here are some possible approaches to soliciting priorities from workshop participants:  
+  - [Card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+  - dot voting/idea rating ([info](http://www.idearatingsheets.org/vs-dot-voting))
+4. Optionally we can also look at the relationships between the topics using a hexagons-based activity:
+  - Hexagons (see [video](https://www.youtube.com/watch?v=OEceTh7txew), [generator](http://www.classtools.net/hexagon/), [template](https://tracyannclark.com/2014/09/23/10-reasons-to-try-hexagonal-thinking/))
 
 ---
 
-## How are we approaching teaching?
+## How do we teach these skills and concepts?
 
---
+Note:
+
+We are going to spend 20 minutes on pedagogical design and online education, including:
+
+- How community and content matter for online education
+- How to create performance assessment tasks with [GRASP](http://opi.mt.gov/pdf/CurriculumGuides/Curriculum-Development-Guide/GRASP.pdf)
+
+---
+
+## How do you design content for online education?
+
+- Playful projects
+- Design for all senses
+- Low floors, wide walls
+- Focus on themes
+- Inspire with diverse examples
+
+Note:
+
+Source: P2PU
+
+---
+
 
 ### Offer people authentic tasks
 
@@ -338,18 +427,6 @@ Source: [W. Caleb McDaniel](http://draft.sx/99556e1384e8d6a589ad)
 
 ---
 
-## Designing content for online education
-
-Note:
-
-- Playful projects
-- Design for all senses
-- Low floors, wide walls
-- Focus on themes
-- Inspire with diverse examples
-
----
-
 # Building a lesson together
 
 ---
@@ -372,7 +449,7 @@ Source: [An Introduction to Open Education Resources](http://b7jl.org/oer/) (CC 
 
 ---
 
-# New City City Study Group
+# New York City Study Group
 ## Local Preservation School
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [City Lore](http://citylore.org/), 2016 September 9
