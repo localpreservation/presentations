@@ -50,7 +50,7 @@ Creating a two-way educational environment.
 
 --
 
-![Columbus Signature Academy, Fodrea Campus. Columbus, Indiana. Photograph by Carol Highsmith, Library of Congress.](/images/2016-09-06-18659u.jpg)
+![Columbus Signature Academy, Fodrea Campus. Columbus, Indiana. Photograph by Carol Highsmith, Library of Congress.](/presentations/images/2016-09-06-18659u.jpg)
 
 Note:
 
@@ -140,7 +140,7 @@ Resources are typically distributed online but may be used in different ways. So
 
 --
 
-![Internet Archive Open Educational Resources Collection (Screenshot)](/images/2016-09-06-internetarchive-open-education.png)
+![Internet Archive Open Educational Resources Collection (Screenshot)](/presentations/images/2016-09-06-internetarchive-open-education.png)
 
 Note:
 
@@ -148,7 +148,7 @@ Note:
 
 --
 
-![Flickr Commons (Screenshot)](/images/2016-07-05-flickr-commons.png)
+![Flickr Commons (Screenshot)](/presentations/images/2016-07-05-flickr-commons.png)
 
 Note:
 
@@ -160,7 +160,7 @@ Note:
 
 --
 
-![The American Yawp Screenshot](/images/2016-08-24-american-yawp.png)
+![The American Yawp Screenshot](/presentations/images/2016-08-24-american-yawp.png)
 
 Note:
 
@@ -176,7 +176,7 @@ The project has _263 contributors_ identified on their website.
 
 --
 
-![WikiProject National Register of Historic Places](/images/2016-08-24-wikiproject-nationalregister.png)
+![WikiProject National Register of Historic Places](/presentations/images/2016-08-24-wikiproject-nationalregister.png)
 
 Note:
 
@@ -196,7 +196,7 @@ Image courtesy [Dudemanfellbra, 2013 March 29, Wikimedia Commons](https://en.wik
 
 --
 
-![School of Data (Screenshot)](/images/2016-08-24-schoolofdata.png)
+![School of Data (Screenshot)](/presentations/images/2016-08-24-schoolofdata.png)
 
 Note:
 
@@ -206,7 +206,7 @@ About [School of Data](http://schoolofdata.org/frequently-asked-questions/):
 
 --
 
-![Slideshare: 10 on Tuesday - How to Lobby for Preservation: Ten Essential Steps (Screenshot)](/images/2016-08-24-tenontuesday-nthp.png)
+![Slideshare: 10 on Tuesday - How to Lobby for Preservation: Ten Essential Steps (Screenshot)](/presentations/images/2016-08-24-tenontuesday-nthp.png)
 
 Note:
 
@@ -220,7 +220,7 @@ The Ten on Tuesday series is an example of an organization repackaging existing 
 
 --
 
-![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](/images/2016-09-07-05607v.jpg)
+![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](/presentations/images/2016-09-07-05607v.jpg)
 
 Note:
 
