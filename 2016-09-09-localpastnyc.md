@@ -1,4 +1,4 @@
-# New York City Study Group (Draft)
+# New York City Study Group
 ## Local Preservation School
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [City Lore](http://citylore.org/), 2016 September 9
@@ -109,7 +109,7 @@ Lesson design:
 
 Note:
 
-Laurenellen McCann started writing about the concept of  **“build with, not for”** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
+Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
 
 Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
 
@@ -465,7 +465,7 @@ We recall information best when we:
 
 >We recommend activities that can work for both beginner and advanced learners. Activities of this type have few barriers to entry ( and make use of easy-to-use tools like Googledocs or Twitter) but are flexible enough to allow advanced folks to add layers of more complex elements.
 
->Instead of encouraging learners to compete to solve a problem, select a thematic focus for a project. Instead of working deductively towards a “correct” solution, learners are free to follow their personal passions.
+>Instead of encouraging learners to compete to solve a problem, select a thematic focus for a project. Instead of working deductively towards a "correct" solution, learners are free to follow their personal passions.
 
 >Showcasing a range of work inspires learners to imagine what’s possible (as opposed to what’s correct). At the same time, an array of different projects models inclusivity, builds a broad community of learners.
 
@@ -473,7 +473,7 @@ Source: [P2PU](http://howto.p2pu.org/modules/learning/concepts/)
 
 ---
 
-### Offer people authentic tasks
+## Offer people authentic tasks
 
 Note:
 
@@ -481,9 +481,9 @@ Note:
 
 Source: [W. Caleb McDaniel](http://draft.sx/99556e1384e8d6a589ad)
 
---
+---
 
-### Design learning around problems
+## Design learning around problems
 
 Note:
 
@@ -527,15 +527,17 @@ _Activity_: Creating a lesson
 
 ## Let's discuss the lessons we created
 
-Remember: feedback is best given with I-statements. Try “I like, I wish, What if”. 
+Remember: feedback is best given with I-statements.
+
+Try saying: I like... I wish... What if...
 
 Note:
 
 Liz Lerman – Critical Response Process
 
->Feedback is best given with I-statements. For example, “I sometimes feel you don’t listen to me” instead of “You don’t listen to a word I say.” Specifically, “I like, I wish, What if” (IL/IW/WI) is a simple tool to encourage open feedback.
+>Feedback is best given with I-statements. For example, "I sometimes feel you don’t listen to me" instead of "You don’t listen to a word I say." Specifically, "I like, I wish, What if" (IL/IW/WI) is a simple tool to encourage open feedback.
 
-Source: [“I Like, I Wish, What If” Method of Feedback](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+Source: ["I Like, I Wish, What If" Method of Feedback](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
 _Activity_: Peer feedback and critique (60 min – Molly/Eli)
  - Each pair/group presents a lesson
