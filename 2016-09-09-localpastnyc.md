@@ -3,8 +3,6 @@
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [City Lore](http://citylore.org/), 2016 September 9
 
-Note:
-
 ---
 
 # Welcome
@@ -85,10 +83,15 @@ Image: [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resourc
 
 ## How should the Local Preservation School teach?
 
+--
+
+![Courtesy Library of Congress.](https://localpreservation.github.io/images/14293u.jpg)
+
 Note:
 
-Open and online education:
+<!-- TODO: Fill in missing image credit. -->
 
+Open and online education:
 
 We are going to spend the late morning talking focusing on how we create lessons and then doing it ourselves.
 
@@ -102,13 +105,15 @@ Lesson design:
 
 ## Build with, not for.
 
+![](/presentations/images/noun_476748.png)
+
 Note:
 
-Laurenellen McCann started writing about the concept of  **“build with, not for”** in civic technology in the summer of 2014.
+Laurenellen McCann started writing about the concept of  **“build with, not for”** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
 
 Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
 
-http://www.buildwith.org/
+Source: http://www.buildwith.org/
 
 ---
 
@@ -241,7 +246,7 @@ Let's take a few minutes to explore what resources we use to teach _and_ to lear
 2. Raise your hand if you referred to an article on Wikipedia as a reference in the past _month_. Free digital resources are **used**.
 3. Raise your hand if you've _ever_ reused photographs from Flickr (or an archival digital collection like the Library of Congress) for a presentation. Free digital resources are **useful**.
 4. Raise your hand if you've _ever_ adapted a colleague's presentation or notes to deliver yourself. **Remixing** is essential to creativity. It is an essential part of teaching and learning.
-4. _Discuss_:
+5. _Discuss_:
   - What other resources do you use to teach?
   - What other resources do you use to learn?
   - What makes a resource more or less useful for you?
@@ -277,6 +282,8 @@ There is _no such thing_ as the _general public_. There are three groups of peop
 - Preservation professionals at volunteer-supported organizations.
 - Professionals in related fields who work with preservation advocates or partners.
 
+We think people who _do_ historic preservation are a diverse group and what it means to _do_ historic preservation varies.
+
 _Discuss_:
 
 1. Can you think of someone who taught you an important skill or idea?
@@ -287,14 +294,7 @@ _Discuss_:
 
 ## What are the "lessons"?
 
--
-
 Note:
-
-- Map
-- Timeline
-- Explore Baltimore Heritage 101
-- Place Matters Toolkit
 
   - New things v. Adapting existing things
   - Text v. interactive things
@@ -302,6 +302,26 @@ Note:
 - How do we expect these resources to be used?
   - Self-guided v. Facilitated settings
   - Adapted for new uses?
+
+--
+
+![Explore Baltimore Heritage 101](https://elipousson.github.io/presentations/images/2016-06-20-buildings-trail-evidence.png)
+
+Note:
+
+Explore Baltimore Heritage 101
+
+- Research challenges
+- Writing exercises
+- Prompts for making images
+
+--
+
+<iframe width="960" height="700" frameborder="0" src="https://localpast.carto.com/viz/10a62bdc-234f-11e6-8ca1-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Note:
+
+Resources that we can build lessons around.
 
 --
 
@@ -315,7 +335,11 @@ Note:
 
 ---
 
-## What does the Place Matters Toolkit teach?
+### City Lore and Place Matters
+
+---
+
+## What does the Place Matters toolkit teach?
 
 Note:
 
@@ -326,6 +350,8 @@ While there are no sure ways to protect a place, the Place Matters Toolkit was c
 - Share the strategies that people have often found effective in preserving places that matter.
 
 See this [spreadsheet for a full list](https://docs.google.com/spreadsheets/d/1etRh2Os2ME7tFc_WvuYPkFTOVKW5T16zzkI9gi3gYSU/edit?usp=sharing).
+
+Distribute the handout for the [Place Matters Toolkit Learning Objectives Discussion](https://docs.google.com/document/d/14f1NPbcmv9bx5OqF9IHwTgLva9zyxIw_PVx_zPuJZdY/edit?usp=sharing)
 
 --
 
@@ -361,7 +387,7 @@ See this [spreadsheet for a full list](https://docs.google.com/spreadsheets/d/1e
 
 ---
 
-## What skills and concepts do _you_ think we should teach?
+## What skills and concepts do _you_ want to teach?
 
 Note:
 
@@ -375,6 +401,18 @@ _Activity_
 4. Optionally we can also look at the relationships between the topics using a hexagons-based activity:
   - Hexagons (see [video](https://www.youtube.com/watch?v=OEceTh7txew), [generator](http://www.classtools.net/hexagon/), [template](https://tracyannclark.com/2014/09/23/10-reasons-to-try-hexagonal-thinking/))
 
+This is how P2PU approaches a similar exercise:
+
+  - What ideas or skills do you want students to master in your course? Make a list of 3-5.
+  - Think about what kinds of projects students might complete to show mastery of those ideas or skills. Jot down 1-2 ideas.
+  - You now have the learning outcomes for your course.
+
+  Source: [P2PU](http://howto.p2pu.org/modules/learning/projects/)
+
+---
+
+### Let's take a break
+
 ---
 
 ## How do we teach these skills and concepts?
@@ -383,12 +421,28 @@ Note:
 
 We are going to spend 20 minutes on pedagogical design and online education, including:
 
-- How community and content matter for online education
+- How to create learning communities
 - How to create performance assessment tasks with [GRASP](http://opi.mt.gov/pdf/CurriculumGuides/Curriculum-Development-Guide/GRASP.pdf)
 
----
+--
 
-## How do you design content for online education?
+## Create with a community
+
+Note:
+
+The way we see it, any online learning experience consists of three parts:
+
+- Social presence (that you have a crew & we’re in it together)
+- Cognitive presence (ideas & content)
+- Teaching presence (feedback & questions)
+
+Design with a community.
+
+Source: [P2PU](http://howto.p2pu.org/modules/community/concepts/)
+
+--
+
+## Create (or curate) engaging content
 
 - Playful projects
 - Design for all senses
@@ -398,10 +452,26 @@ We are going to spend 20 minutes on pedagogical design and online education, inc
 
 Note:
 
-Source: P2PU
+We recall information best when we:
+
+- design for all senses
+- build a real-life project that is applicable to our lives
+- present that project to others for feedback
+- share our ideas with the wider world
+
+>How could someone make a project where they fiddle, tinker and lose themselves in it? Open-ended projects and thematic prompts help learners find their own paths and ideas.
+
+>We recall information best when it engages several of our senses.
+
+>We recommend activities that can work for both beginner and advanced learners. Activities of this type have few barriers to entry ( and make use of easy-to-use tools like Googledocs or Twitter) but are flexible enough to allow advanced folks to add layers of more complex elements.
+
+>Instead of encouraging learners to compete to solve a problem, select a thematic focus for a project. Instead of working deductively towards a “correct” solution, learners are free to follow their personal passions.
+
+>Showcasing a range of work inspires learners to imagine what’s possible (as opposed to what’s correct). At the same time, an array of different projects models inclusivity, builds a broad community of learners.
+
+Source: [P2PU](http://howto.p2pu.org/modules/learning/concepts/)
 
 ---
-
 
 ### Offer people authentic tasks
 
@@ -419,7 +489,7 @@ Note:
 
 So if you are interested in teaching people how to tell a story about a historic place in their community, how do you present them with authentic tasks—real challenges. McDaniel suggests three key components:
 
-1. Design around Problems and Frame Using GRASPS (goal, role, audience, situation, product, standards).
+1. Design around Problems and Frame Using  (goal, role, audience, situation, product, standards).
 2. Find a Real Audience, online or in person.
 3. Peer review and response
 
@@ -427,21 +497,65 @@ Source: [W. Caleb McDaniel](http://draft.sx/99556e1384e8d6a589ad)
 
 ---
 
-# Building a lesson together
-
----
-
-## Creating Open Educational Resources
+## Let's create lessons together
 
 Note:
 
-When we create OERs what are we trying to create?
+We are talking about "lessons" in this workshop but they are sometimes called modules or learning activities. Lessons is a familiar term so we are sticking with it.
+
+--
+
+Start with our **lesson template**: [bit.ly/localpast-template](http://bit.ly/localpast-template)
+
+Or start from scratch!
+
+Note:
+
+We are recommending Google Docs for this activity. You can also create a lesson on paper or with other digital tools instead.
+
+_Activity_: Creating a lesson
+ - Distribute lesson templates. Review what goes into a lesson.
+ - Create an outline for your lesson.
+ - Do you need any additional resources? Identify what images, video, audio, documents may be helpful to add.
+ - Where can participants dig deeper into this topic? Identify related links/resources, examples for closer study, etc.
+
+---
+
+## Let's eat some lunch
+
+---
+
+## Let's discuss the lessons we created
+
+Remember: feedback is best given with I-statements. Try “I like, I wish, What if”. 
+
+Note:
+
+Liz Lerman – Critical Response Process
+
+>Feedback is best given with I-statements. For example, “I sometimes feel you don’t listen to me” instead of “You don’t listen to a word I say.” Specifically, “I like, I wish, What if” (IL/IW/WI) is a simple tool to encourage open feedback.
+
+Source: [“I Like, I Wish, What If” Method of Feedback](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+
+_Activity_: Peer feedback and critique (60 min – Molly/Eli)
+ - Each pair/group presents a lesson
+ - Participants respond with feedback/comments/suggestions
+
+---
+
+## How do you share open educational resources?
+
+Note:
+
+OERs need to be:
 
 - **Findable**. That means including metadata about the work and the class so users will know what to expect.
 - **Usable**. Material should be as open as possible.
 - **Licensed**. Make sure you indicate what can be done with the work and any restrictions you have, although the less restrictive the license, the better.
 
 Source: [An Introduction to Open Education Resources](http://b7jl.org/oer/) (CC BY-SA)
+
+We are using GitHub and Jekyll. You can use Google Docs.
 
 ---
 
@@ -467,6 +581,22 @@ Note:
 - Johns Hopkins, Baltimore Heritage
 
 ## Image Credits
+
+---
+
+![](/presentations/images/noun_201425.png)
+
+--
+
+![](/presentations/images/noun_201428.png)
+
+--
+
+![.](/presentations/images/noun_476746.png)
+
+--
+
+![](/presentations/images/noun_476758.png)
 
 ---
 
