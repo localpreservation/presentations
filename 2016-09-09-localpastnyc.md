@@ -9,6 +9,12 @@
 
 Note:
 
+Welcome. Let's start with some housekeeping:
+
+- Where is the coffee?
+- Where are the restrooms?
+- How do you get on the wifi?
+
 **Activity:** Three Word Introductions
 
 1. _Say_: If you had to describe yourself in three words, which three would you choose? Take a minute to choose your three words.
@@ -24,7 +30,7 @@ Share ideas on Twitter: **[#localpast](https://twitter.com/search?q=%23localpast
 
 Note:
 
-We are taking notes on today's workshop in an [open Google Document](http://bit.ly/localpastnyc-notes). Please add your own comments, resources, and observations to the document throughout today's workshop.
+We are taking notes on today's workshop in an [open Google Document](http://bit.ly/localpastnyc-notes). Please add your own comments, resources, and observations to the document throughout the workshop today. Our notes provide a record both for everyone who is here today and anyone who wanted to be here and couldn't make it!
 
 ---
 
@@ -32,17 +38,17 @@ We are taking notes on today's workshop in an [open Google Document](http://bit.
 
 Note:
 
-We are creating a two-way educational environment. Molly and I are going to teach a few things; we are all going to learn a few things; we are all going to try making a thing.
+Our goal for the day to is make this a two-way educational environment. We all are experts at something and we all can try to learn something new.
 
-1. Teaching:
+1. For the first hour or so, we will talk about:
   - How open educational resources work
+  - The importance of education to preservation and community heritage (especially at City Lore)
+2. The next hour or so, we will discuss:
+  - Your priorities for what you want people to learn (and what you want to teach)
   - How you can create open educational resources
-2. Learning:
-  - Your priorities for what you want people to learn
-  - Your approach to teaching preservation
-3. Making:
-  - Lessons for neighbors, friends, and colleagues and the Local Preservation School
-  - A better Place Matters Toolkit for City Lore
+3. Finally, we'll end the morning by:
+  - Creating lessons based on the Place Matters Toolkit (or your own ideas)
+  - Offering feedback to each other on the lessons we've made'
 
 --
 
@@ -54,14 +60,19 @@ We are creating a two-way educational environment. Molly and I are going to teac
 
 Note:
 
-About the [Local Preservation School](http://localpreservation.github.io/about/):
+This workshop is the first in a series we are organizing for our [Local Preservation School](http://localpreservation.github.io/about/) project:
 
 >The Local Preservation School is an open learning environment where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects.
 >This project is led by Baltimore Heritage with support from the National Park Service and National Conference of State Historic Preservation Officers.
 
+We hope to teach you a bit about emerging approaches to open education but we also want to recruit you as collaborators (at least for the day) to talk about two big questions:
+
+- What does the Local Preservation School teach?
+- How does the Local Preservation School teach?
+
 --
 
-## What should the Local Preservation School teach?
+## What does the Local Preservation School teach?
 
 --
 
@@ -69,13 +80,9 @@ About the [Local Preservation School](http://localpreservation.github.io/about/)
 
 Note:
 
-The Local Preservation School is a **work-in-progress**. We believe a resource should be built _with_ the community of educators and learners we hope to serve not _for_ that community.
+What does the school teach? Honestly, we are still figuring that out. The Local Preservation School is a **work-in-progress** and we invited you here today because we want you to be part of it.
 
-Keep in mind:
-
-- Your experience in New York City may or may not apply in other situations.
-
-What you going to get out of participating?
+But we think the Place Matters toolkit is a solid foundation to build on. It is the result of a decade of work by an innovative nonprofit that has been deeply committed to working with New York residents to preserve places that might otherwise be overlooked or simply lost altogether.
 
 Image: [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/).
 
@@ -91,15 +98,17 @@ Note:
 
 <!-- TODO: Fill in missing image credit. -->
 
-Open and online education:
+But there are a few things that make this project different than most of the preservation publications, webinars, or workshops that already exist. We are focused on connecting people to free **open educational resources** in an online environment.
 
-We are going to spend the late morning talking focusing on how we create lessons and then doing it ourselves.
+We are using an open Creative Commons license and publishing on a platform – GitHub – that is used for thousands of collaborative, community-driven, open source projects in the technology sector.
 
-Lesson design:
+Building the Local Preservation School online also means we meet people where they are: organizing Baltimore's cemetery clean-ups on Facebook; brainstorming ideas for adaptive reuse in New York City by email newsletter; and sharing photos of "preservation-ready sites" online and on social media in Buffalo.
 
-- Project based
-- Authentic tasks
-- Learner-centered
+Building lessons for the web also enable us to avoid reinventing the wheel and reuse the wide variety of resources that already exist.
+
+Most of all, we want to make sure that we are creating a resource that is connected to the real world challenges faced by small nonprofits, community groups, and volunteer advocates trying to preserve historic places in their communities.
+
+We are not looking to teach local history or architectural styles for their own sake. We want to teach people what you can do with that knowledge: proactive, community-based historic preservation advocacy.  
 
 --
 
@@ -109,15 +118,15 @@ Lesson design:
 
 Note:
 
+<!-- TODO: Add image credit and alt text. -->
+
 Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
+
+To make a useful resource, we think want to build a school _with_ the community of educators and learners who care about historic preservation. Not just _for_ that community.
 
 Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
 
-Source: http://www.buildwith.org/
-
----
-
-## Questions?
+Source: [Build with, Not for](http://www.buildwith.org/)
 
 ---
 
@@ -142,9 +151,11 @@ Different people may have different definitions of open educational resources (o
 
 Resources are typically distributed online but may be used in different ways. Some resources are adapted by educators to use in their own traditional classroom. Some resources become self-guided tutorials for independent learners.
 
+<!-- TODO: Insert chart on the rising cost of textbooks. Connect issues of accessible education and information to equity of participation. -->
+
 --
 
-## How do you find open educational resources?
+## Examples
 
 --
 
@@ -153,26 +164,6 @@ Resources are typically distributed online but may be used in different ways. So
 Note:
 
 [Internet Archive Open Educational Resources Collection](https://archive.org/details/education?sort=titleSorter)
-
---
-
-![Flickr Commons (Screenshot)](/presentations/images/2016-07-05-flickr-commons.png)
-
-Note:
-
-[Flickr Commons](https://www.flickr.com/commons)
-
---
-
-![Open Textbook Library (Screenshot)](/presentations/images/2016-09-07-opentextbook-library.png)
-
-Note:
-
-[Open Textbook Library](http://open.umn.edu/opentextbooks/)
-
----
-
-## Examples
 
 --
 
@@ -200,13 +191,15 @@ About [WikiProject National Register of Historic Places](https://en.wikipedia.or
 
 >The project covers all articles about U.S. National Register of Historic Places listings in the English language Wikipedia. We try to improve Wikipedia's coverage of these listings by creating new articles or by improving existing ones.
 
-The project is ten years old this fall and has created extensive [resources](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Register_of_Historic_Places/Resources "Wikipedia:WikiProject National Register of Historic Places/Resources") for anyone interested in developing articles about National Register designated resources.
+The project is ten years old this fall and has created extensive [resources](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Register_of_Historic_Places/Resources "Wikipedia:WikiProject National Register of Historic Places/Resources") for anyone interested in developing articles about National Register designated landmarks or historic districts.
 
 --
 
 ![Map of the United States including county-level data for percentage of articles created by members of en:Wikipedia:WikiProject National Register of Historic Places.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NRHP_Articled_Counties.svg/1024px-NRHP_Articled_Counties.svg.png)
 
 Note:
+
+You can see the impact of the project on this map of the United States. Counties marked in dark red have an article on every single National Register designated resource in the area.
 
 Image courtesy [Dudemanfellbra, 2013 March 29, Wikimedia Commons](https://en.wikipedia.org/wiki/File:NRHP_Articled_Counties.svg) (CC BY-SA).
 
@@ -228,7 +221,7 @@ Note:
 
 Example: [10 on Tuesday - How to Lobby for Preservation: Ten Essential Steps](http://www.slideshare.net/PreservationNation/10-on-tuesday-how-to-lobby-for-preservation-ten-essential-steps)
 
-The Ten on Tuesday series is an example of an organization repackaging existing resources in new formats – making older publications accessible for new audiences. The National Trust for Historic Preservation uses a restrictive Creative Commons license for these slides: [CC Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The Ten on Tuesday series is an example of an organization repackaging existing resources in new formats – making older publications accessible for new audiences. The National Trust for Historic Preservation uses a a Creative Commons license for these slides but one that restricts commercial reuse ([CC Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ---
 
@@ -240,22 +233,25 @@ The Ten on Tuesday series is an example of an organization repackaging existing 
 
 Note:
 
-Let's take a few minutes to explore what resources we use to teach _and_ to learn.
+<!-- FIXME: It feels like a long time between the beginning of the workshop and this first discussion break. -->
+
+Let's take a few minutes to explore what resources we already use to _teach_ and to _learn_.
 
 1. Raise your hand if you referred to a textbook or a printed encyclopedia as a reference in the past _month_. Printed publications can be **limiting**.
 2. Raise your hand if you referred to an article on Wikipedia as a reference in the past _month_. Free digital resources are **used**.
 3. Raise your hand if you've _ever_ reused photographs from Flickr (or an archival digital collection like the Library of Congress) for a presentation. Free digital resources are **useful**.
 4. Raise your hand if you've _ever_ adapted a colleague's presentation or notes to deliver yourself. **Remixing** is essential to creativity. It is an essential part of teaching and learning.
 5. _Discuss_:
-  - What other resources do you use to teach?
-  - What other resources do you use to learn?
+  - What resources do you use to teach?
+  - What resources do you use to learn?
   - What makes a resource more or less useful for you?
+  - What resources for preservation or from other fields should we use as a model for the Local Preservation School?
 
 Image: [Library of Congress](http://www.loc.gov/pictures/item/2010646348/)
 
 ---
 
-## Local Preservation School
+## Building community online
 
 Note:
 
@@ -276,19 +272,21 @@ Source: [P2PU](http://howto.p2pu.org/)
 
 Note:
 
-There is _no such thing_ as the _general public_. There are three groups of people we hope to reach:
+Who are we building resources for? There is _no such thing_ as the _general public_. But there are three groups of people we hope to reach:
 
 - Volunteers advocating for preservation in their community.
 - Preservation professionals at volunteer-supported organizations.
 - Professionals in related fields who work with preservation advocates or partners.
 
-We think people who _do_ historic preservation are a diverse group and what it means to _do_ historic preservation varies.
+We think people who _do_ historic preservation are a diverse group. What it means to _do_ historic preservation means different things in different contexts. Who do you want to reach with your educational efforts?
 
 _Discuss_:
 
 1. Can you think of someone who taught you an important skill or idea?
 2. Can you think of someone that you have taught an important skill or idea?
-3. Share some ideas about who you teach and who you learn from.
+3. Share some reflections on who you teach and who you learn from.
+
+<!-- TODO: Insert a photograph of people here! There are no photos of people in this presentation. -->
 
 --
 
@@ -314,6 +312,15 @@ Explore Baltimore Heritage 101
 - Research challenges
 - Writing exercises
 - Prompts for making images
+- Guide to interpreting
+
+--
+
+![Explore Baltimore Heritage (Screenshot)](/presentations/images/2016-09-08-explorebaltimoreheritage.png)
+
+<!-- TODO: Insert screenshot for Explore Baltimore Heritage if possible. -->
+
+What makes this so exciting for us is the potential to engage Baltimore residents in a deeper partnership around the work we are already doing. Instead of organizing our own tours, we can promote tours organized by neighborhood historians. Instead of researching the history of local landmarks, we'd like to empower residents to do research for themselves. We'd be happy to work ourselves out of a job.
 
 --
 
@@ -321,17 +328,9 @@ Explore Baltimore Heritage 101
 
 Note:
 
-Resources that we can build lessons around.
+And this is a model that is relevant to more than just Baltimore. We've collected and mapped out over 200 local history research guides. Teaching research, writing, and interpretation is something that preservation groups, local libraries, historical societies, and small museums across the country are wroking to do.
 
---
-
-## How can these resources be used?
-
-Note:
-
-- How do we expect these resources to be used?
-  - Self-guided v. Facilitated settings
-  - Adapted for new uses?
+Couldn't we build something pretty cool if we started working together?
 
 ---
 
@@ -362,12 +361,20 @@ Distribute the handout for the [Place Matters Toolkit Learning Objectives Discus
 - Identify threats and opportunities
 - Formulate goals
 
+Note:
+
+>We've prepared this Toolkit for people who are strongly attached to a place. This section will help you identify the causes for that attachment and define for yourself and others why this place matters. Clarifying your interests will help you to pinpoint the most effective actions.
+
 --
 
 ### Explaining a place
 
 - Collect information
 - Develop themes
+
+Note:
+
+>Making a compelling argument for why a place matters will attract supporters and encourage creative thinking about strategies to protect it. This section of the Toolkit aims to help you make your case.
 
 --
 
@@ -377,6 +384,10 @@ Distribute the handout for the [Place Matters Toolkit Learning Objectives Discus
 - Make a public presentation
 - Secure public recognition
 
+Note:
+
+>Once you collect your stories, and identify and develop your themes, you will want to present them to the public to promote and advocate for your place. The value of a place is rarely so obvious that it can't benefit from vibrant interpretation.
+
 --
 
 ### Protecting a place
@@ -385,29 +396,31 @@ Distribute the handout for the [Place Matters Toolkit Learning Objectives Discus
 - Retaining longstanding use
 - Interpreting your story
 
+Note:
+
+>Efforts to protect a place are usually galvanized by a threat or an unexpected opportunity. Typically the tools are few, and the stakes are high. Nevertheless, place advocates have forged some useful strategies.
+
 ---
 
 ## What skills and concepts do _you_ want to teach?
 
 Note:
 
-_Activity_
+_Activity_: Help shape the lesson objectives for the Place Matters toolkit
 
 1. Start by reviewing the "lessons" outlined in the Place Matters toolkit.
-2. Ask for suggestions of additional topics that may be missing or secondary topics that should be attached to one of the primary topics.
-3. Once we define our topics, we need to set some priorities. Here are some possible approaches to soliciting priorities from workshop participants:  
+2. Give participants a few minutes of quiet to put a few thoughts onto paper.
+3. Ask people to share the ideas and skills they listed.
+4. Ask people to share the project ideas they listed.
+5. Once we define our topics, we need to set some priorities. Here are some possible approaches to soliciting priorities from workshop participants:  
   - [Card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
   - dot voting/idea rating ([info](http://www.idearatingsheets.org/vs-dot-voting))
-4. Optionally we can also look at the relationships between the topics using a hexagons-based activity:
+6. Optionally we can also look at the relationships between the topics using a hexagons-based activity:
   - Hexagons (see [video](https://www.youtube.com/watch?v=OEceTh7txew), [generator](http://www.classtools.net/hexagon/), [template](https://tracyannclark.com/2014/09/23/10-reasons-to-try-hexagonal-thinking/))
 
-This is how P2PU approaches a similar exercise:
+<!-- TODO: Think more about the possibility of using hexagons or card sorting for the Philadelphia workshop. -->
 
-  - What ideas or skills do you want students to master in your course? Make a list of 3-5.
-  - Think about what kinds of projects students might complete to show mastery of those ideas or skills. Jot down 1-2 ideas.
-  - You now have the learning outcomes for your course.
-
-  Source: [P2PU](http://howto.p2pu.org/modules/learning/projects/)
+Source: [P2PU](http://howto.p2pu.org/modules/learning/projects/)
 
 ---
 
@@ -421,8 +434,10 @@ Note:
 
 We are going to spend 20 minutes on pedagogical design and online education, including:
 
-- How to create learning communities
-- How to create performance assessment tasks with [GRASP](http://opi.mt.gov/pdf/CurriculumGuides/Curriculum-Development-Guide/GRASP.pdf)
+- How to create with a learning community
+- How to create or curate engaging content
+- How to offer students authentic tasks
+- How to design learning around problems
 
 --
 
@@ -437,6 +452,8 @@ The way we see it, any online learning experience consists of three parts:
 - Teaching presence (feedback & questions)
 
 Design with a community.
+
+Peers provide an audience and an important source of feedback.
 
 Source: [P2PU](http://howto.p2pu.org/modules/community/concepts/)
 
@@ -471,7 +488,7 @@ We recall information best when we:
 
 Source: [P2PU](http://howto.p2pu.org/modules/learning/concepts/)
 
----
+--
 
 ## Offer people authentic tasks
 
@@ -481,7 +498,7 @@ Note:
 
 Source: [W. Caleb McDaniel](http://draft.sx/99556e1384e8d6a589ad)
 
----
+--
 
 ## Design learning around problems
 
@@ -584,23 +601,7 @@ Note:
 
 ## Image Credits
 
----
-
-![](/presentations/images/noun_201425.png)
-
---
-
-![](/presentations/images/noun_201428.png)
-
---
-
-![.](/presentations/images/noun_476746.png)
-
---
-
-![](/presentations/images/noun_476758.png)
-
----
+...
 
 ## Related Resources
 
