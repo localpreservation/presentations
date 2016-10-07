@@ -52,7 +52,7 @@ Our goal for the day to is make this a two-way educational environment. We all a
 
   --
 
-  ## What do we hope we get out of today?
+  ## What do **we** get out of today's study group?
 
   Note:
 
@@ -60,11 +60,11 @@ Our goal for the day to is make this a two-way educational environment. We all a
 
 --
 
-## What do we hope you get out of today?
+## What do **you** get out of today's study group?
 
 Note:
 
-We think the internet is important to the future of preservation. Online education is important. Citizen empowerment is difficult.
+We think the internet is important to the future of preservation. Online education is important. Education and empowerment are difficult jobs. We want to make your job easier. We want to inspire you to try new things. We want you to get to know one another.
 
 --
 
