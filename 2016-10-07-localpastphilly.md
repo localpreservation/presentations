@@ -50,13 +50,13 @@ Our goal for the day to is make this a two-way educational environment. We all a
   - Creating lessons based on Preservation Alliance resources (or your own ideas)
   - Offering feedback to each other on the lessons we've made'
 
-  --
+--
 
-  ## What do **we** get out of today's study group?
+## What do **we** get out of today's study group?
 
-  Note:
+Note:
 
-  We think you are experts. But you're also really busy. You know things and you do things but you might not always have enough time to write them down.
+We think you are experts. But you're also really busy. You know things and you do things but you might not always have enough time to write them down.
 
 --
 
@@ -70,7 +70,7 @@ We think the internet is important to the future of preservation. Online educati
 
 ## Build with, not for.
 
-![](/presentations/images/noun_476748.png)
+![Image of two hands holding tools.](/presentations/images/noun_476748.png)
 
 Note:
 
@@ -83,6 +83,8 @@ To make a useful resource, we think want to build a school _with_ the community 
 Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
 
 Source: [Build with, Not for](http://www.buildwith.org/)
+
+Image courtesy The Noun Project.
 
 ---
 
