@@ -50,7 +50,41 @@ Our goal for the day to is make this a two-way educational environment. We all a
   - Creating lessons based on Preservation Alliance resources (or your own ideas)
   - Offering feedback to each other on the lessons we've made'
 
+  --
+
+  ## What do we hope we get out of today?
+
+  Note:
+
+  We think you are experts. But you're also really busy. You know things and you do things but you might not always have enough time to write them down.
+
 --
+
+## What do we hope you get out of today?
+
+Note:
+
+We think the internet is important to the future of preservation. Online education is important. Citizen empowerment is difficult.
+
+--
+
+## Build with, not for.
+
+![](/presentations/images/noun_476748.png)
+
+Note:
+
+<!-- TODO: Add image credit and alt text. -->
+
+Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
+
+To make a useful resource, we think want to build a school _with_ the community of educators and learners who care about historic preservation. Not just _for_ that community.
+
+Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
+
+Source: [Build with, Not for](http://www.buildwith.org/)
+
+---
 
 ## What is the Local Preservation School?
 
@@ -110,23 +144,30 @@ Most of all, we want to make sure that we are creating a resource that is connec
 
 We are not looking to teach local history or architectural styles for their own sake. We want to teach people what you can do with that knowledge: proactive, community-based historic preservation advocacy.  
 
+---
+
+## How do you **teach** and **learn**?
+
 --
 
-## Build with, not for.
-
-![](/presentations/images/noun_476748.png)
+![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](/presentations/images/2016-09-07-05607v.jpg)
 
 Note:
 
-<!-- TODO: Add image credit and alt text. -->
+<!-- FIXME: Let's rework this as a think-pair-share exercise. -->
 
-Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
+Let's take a few minutes to explore what resources we already use to _teach_ and to _learn_.
 
-To make a useful resource, we think want to build a school _with_ the community of educators and learners who care about historic preservation. Not just _for_ that community.
+1. Raise your hand if you referred to a textbook or a printed encyclopedia as a reference in the past _month_. Printed publications can be **limiting**.
+2. Raise your hand if you referred to an article on Wikipedia as a reference in the past _month_. Free digital resources are **used**.
+3. Raise your hand if you've _ever_ reused photographs from Flickr (or an archival digital collection like the Library of Congress) for a presentation. Free digital resources are **useful**.
+4. Raise your hand if you've _ever_ adapted a colleague's presentation or notes to deliver yourself. **Remixing** is essential to creativity. It is an essential part of teaching and learning.
+5. _Discuss_:
+  - What resources do you use to **teach**?
+  - What resources do you use to **learn**?
+  - What makes a resource **useful** for you?
 
-Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
-
-Source: [Build with, Not for](http://www.buildwith.org/)
+Image: [Library of Congress](http://www.loc.gov/pictures/item/2010646348/)
 
 ---
 
@@ -222,32 +263,6 @@ Note:
 Example: [10 on Tuesday - How to Lobby for Preservation: Ten Essential Steps](http://www.slideshare.net/PreservationNation/10-on-tuesday-how-to-lobby-for-preservation-ten-essential-steps)
 
 The Ten on Tuesday series is an example of an organization repackaging existing resources in new formats – making older publications accessible for new audiences. The National Trust for Historic Preservation uses a a Creative Commons license for these slides but one that restricts commercial reuse ([CC Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
-
----
-
-## How do you teach and learn?
-
---
-
-![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](/presentations/images/2016-09-07-05607v.jpg)
-
-Note:
-
-<!-- FIXME: It feels like a long time between the beginning of the workshop and this first discussion break. -->
-
-Let's take a few minutes to explore what resources we already use to _teach_ and to _learn_.
-
-1. Raise your hand if you referred to a textbook or a printed encyclopedia as a reference in the past _month_. Printed publications can be **limiting**.
-2. Raise your hand if you referred to an article on Wikipedia as a reference in the past _month_. Free digital resources are **used**.
-3. Raise your hand if you've _ever_ reused photographs from Flickr (or an archival digital collection like the Library of Congress) for a presentation. Free digital resources are **useful**.
-4. Raise your hand if you've _ever_ adapted a colleague's presentation or notes to deliver yourself. **Remixing** is essential to creativity. It is an essential part of teaching and learning.
-5. _Discuss_:
-  - What resources do you use to teach?
-  - What resources do you use to learn?
-  - What makes a resource more or less useful for you?
-  - What resources for preservation or from other fields should we use as a model for the Local Preservation School?
-
-Image: [Library of Congress](http://www.loc.gov/pictures/item/2010646348/)
 
 ---
 
@@ -391,6 +406,16 @@ We are going to spend 20 minutes on pedagogical design and online education, inc
 
 --
 
+![Time portal](/presentations/images/noun_14776_cc.png)
+
+Note:
+
+[Time Portal](https://thenounproject.com/term/time-portal/14776) by Julien Deveaux, FR ([CC-BY](http://creativecommons.org/licenses/by/3.0/us/)) courtesy [The Noun Project](https://thenounproject.com/).
+
+Example: Time Machine
+
+--
+
 ## Create with a community
 
 Note:
@@ -496,7 +521,7 @@ _Activity_: Creating a lesson
 
 ## Let's discuss the lessons we created
 
-Remember: feedback is best given with I-statements.
+**Remember:** feedback is best given with I-statements.
 
 Try saying: I like... I wish... What if...
 
