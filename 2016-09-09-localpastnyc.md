@@ -318,7 +318,7 @@ Explore Baltimore Heritage 101
 
 ![Explore Baltimore Heritage (Screenshot)](/presentations/images/2016-09-08-explorebaltimoreheritage.png)
 
-<!-- TODO: Insert screenshot for Explore Baltimore Heritage if possible. -->
+Note:
 
 What makes this so exciting for us is the potential to engage Baltimore residents in a deeper partnership around the work we are already doing. Instead of organizing our own tours, we can promote tours organized by neighborhood historians. Instead of researching the history of local landmarks, we'd like to empower residents to do research for themselves. We'd be happy to work ourselves out of a job.
 
