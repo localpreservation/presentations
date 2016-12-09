@@ -3,6 +3,25 @@
 
 [Baltimore Heritage](http://baltimoreheritage.org/) + [National Trust for Historic Preservation](https://savingplaces.org/) + [DC Preservation League](http://www.dcpreservation.org/), 2016 December 9
 
+Note:
+
+_Say_: Thank you to organizers:
+
+- Priya Chhaya, NTHP
+- Rhonda Sincavage, NTHP
+- Rebecca Miller, DCPL
+- Johns Hopkins, Baltimore Heritage
+
+_Remember_: Good facilitation includes a number of different tasks:
+- Listen to learners
+- Ask clarifying statements
+- Provide good feedback
+- Keep discussions on task
+- Probe assumptions and evidence
+- Elicit viewpoints and perspectives
+- Mediate conflicts
+- Summarize and present findings
+
 ---
 
 # Welcome
@@ -14,6 +33,10 @@ Welcome. Let's start with some housekeeping:
 - Where is the coffee?
 - Where are the restrooms?
 - How do you get on the wifi?
+- When is lunch?
+- Any questions?
+
+Please get comfortable.
 
 **Activity:** Three Word Introductions
 
@@ -30,7 +53,7 @@ Share ideas on Twitter: **[#localpast](https://twitter.com/search?q=%23localpast
 
 Note:
 
-We are taking notes on today's workshop in an [open Google Document](http://bit.ly/localpastdc-notes). Please add your own comments, resources, and observations to the document throughout the workshop today. Our notes provide a record both for everyone who is here today and anyone who wanted to be here and couldn't make it!
+We are taking notes on today's workshop in an [open Google Document](http://bit.ly/localpastdc-notes). Please add your own comments, resources, and observations to the document throughout the workshop today. Notes provide a record both for everyone who is here today _and_ everyone who wanted to be here but couldn't attend!
 
 ---
 
@@ -38,17 +61,34 @@ We are taking notes on today's workshop in an [open Google Document](http://bit.
 
 Note:
 
-Our goal for the day to is make this a two-way educational environment. We all are experts at something and we all can try to learn something new.
+Our goal for the day to is for everyone to learn something new and to teach something new. Educators call this a two-way learning environment. We all are experts at something and we all can try to learn something new.
 
 1. For the first hour or so, we will talk about:
-  - How open educational resources work
-  - The importance of education to preservation and community heritage
+  - How do open educational resources work?
+  - Why is education and outreach important to preservation and community heritage?
+  - How are preservation groups already approaching this?
+    -  National Trust for Historic Preservation
+    -  DC Preservation League
 2. The next hour or so, we will discuss:
-  - Your priorities for what you want people to learn (and what you want to teach)
-  - How you can create open educational resources
+  - Your priorities – want do you want people to learn? What do you want to teach?
+  - How can you create open educational resources?
 3. Finally, we'll end the morning by:
-  - Creating lessons based on Preservation Alliance resources (or your own ideas)
+  - Creating lessons based on our resources (or your own ideas)
   - Offering feedback to each other on the lessons we've made'
+
+--
+
+## What do **you** get out of today's study group?
+
+Note:
+
+We want you to get to know one another.
+
+We want you to learn how online communities and education are shaping the future of preservation
+
+We want you to bring back resources that can make your life easier.
+
+We want to inspire you to try new things.
 
 --
 
@@ -57,34 +97,6 @@ Our goal for the day to is make this a two-way educational environment. We all a
 Note:
 
 We think you are experts. But you're also really busy. You know things and you do things but you might not always have enough time to write them down.
-
---
-
-## What do **you** get out of today's study group?
-
-Note:
-
-We think the internet is important to the future of preservation. Online education is important. Education and empowerment are difficult jobs. We want to make your job easier. We want to inspire you to try new things. We want you to get to know one another.
-
---
-
-## Build with, not for.
-
-![Image of two hands holding tools.](/presentations/images/noun_476748.png)
-
-Note:
-
-<!-- TODO: Add image credit and alt text. -->
-
-Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
-
-To make a useful resource, we think want to build a school _with_ the community of educators and learners who care about historic preservation. Not just _for_ that community.
-
-Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
-
-Source: [Build with, Not for](http://www.buildwith.org/)
-
-Image courtesy The Noun Project.
 
 ---
 
@@ -116,9 +128,7 @@ We hope to teach you a bit about emerging approaches to open education but we al
 
 Note:
 
-What does the school teach? Honestly, we are still figuring that out. The Local Preservation School is a **work-in-progress** and we invited you here today because we want you to be part of it.
-
-But we think the work of the Preservation Alliance is a solid foundation to build on.
+What does the school teach? You get to decide. The Local Preservation School is a **work-in-progress** and we want you to be part of it.
 
 Image: [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/).
 
@@ -145,6 +155,26 @@ Building lessons for the web also enable us to avoid reinventing the wheel and r
 Most of all, we want to make sure that we are creating a resource that is connected to the real world challenges faced by small nonprofits, community groups, and volunteer advocates trying to preserve historic places in their communities.
 
 We are not looking to teach local history or architectural styles for their own sake. We want to teach people what you can do with that knowledge: proactive, community-based historic preservation advocacy.  
+
+--
+
+## Build with, not for.
+
+![Image of two hands holding tools.](/presentations/images/noun_476748.png)
+
+Note:
+
+<!-- TODO: Add image credit and alt text. -->
+
+Laurenellen McCann started writing about the concept of  **"build with, not for"** in civic technology in the summer of 2014. The idea is that we need  to be "prioritizing community leadership in the creation of tech above the tools themselves."
+
+To make a useful resource, we think want to build a school _with_ the community of educators and learners who care about historic preservation. Not just _for_ that community.
+
+Your participation today is a gift to our project and, I hope, a gift to our broader community of local preservationists.
+
+Source: [Build with, Not for](http://www.buildwith.org/)
+
+Image courtesy The Noun Project.
 
 ---
 
@@ -279,7 +309,7 @@ We are trying to build a **learning community** _not_ just a textbook:
 
 Source: [P2PU](http://howto.p2pu.org/)
 
---
+---
 
 ## Who are the "students"?
 
@@ -305,7 +335,7 @@ _Discuss_:
 
 <!-- TODO: Insert a photograph of people here! There are no photos of people in this presentation. -->
 
---
+---
 
 ## What are the "lessons"?
 
@@ -331,11 +361,7 @@ Explore Baltimore Heritage 101
 - Prompts for making images
 - Guide to interpreting
 
---
-
 ![Explore Baltimore Heritage (Screenshot)](/presentations/images/2016-09-08-explorebaltimoreheritage.png)
-
-Note:
 
 What makes this so exciting for us is the potential to engage Baltimore residents in a deeper partnership around the work we are already doing. Instead of organizing our own tours, we can promote tours organized by neighborhood historians. Instead of researching the history of local landmarks, we'd like to empower residents to do research for themselves. We'd be happy to work ourselves out of a job.
 
@@ -345,9 +371,38 @@ What makes this so exciting for us is the potential to engage Baltimore resident
 
 Note:
 
-And this is a model that is relevant to more than just Baltimore. We've collected and mapped out over 200 local history research guides. Teaching research, writing, and interpretation is something that preservation groups, local libraries, historical societies, and small museums across the country are wroking to do.
+Map of Local Research Sources
+
+And this is a model that is relevant to more than just Baltimore. We've collected and mapped out over 200 local history research guides. Teaching research, writing, and interpretation is something that preservation groups, local libraries, historical societies, and small museums across the country are working to do.
 
 Couldn't we build something pretty cool if we started working together?
+
+---
+
+## Inclusion and Equity
+
+- Interpretation
+- Organizing
+- Advocacy
+
+Note:
+
+- What stories do we tell and how do we tell them?
+- Who is included in the preservation movement? How do we include people?
+- What historic places do we advocate for? What places don't we  advocate for?
+
+These themes matter to the design and implementation of local and national policies and incentives and internal policies around hiring and board recruitment. Keep these themes in mind today.
+
+--
+
+![Chart from Race Equity and Inclusion Action Guide (2014), Annie E. Casey Foundation](/presentations/images/2014-embracing-equity-chart.jpg)
+
+Note:
+
+>Race holds a central place in our society’s deepest and most persistent patterns of social inequities, exclusion and divisions. Racial disparities, discrimination and segregation are widespread and continue to undermine our nation’s social fabric. Without equity, economic strati cation and social instability will continue to increase and far too many families and children will continue to lag behind. Without inclusion, many are marginalized economically, politically and culturally, facing bias and barriers when seeking basic opportunities for security and advancement.
+
+Source: Race Equity and Inclusion Action Guide (2014), Annie E. Casey Foundation
+
 
 ---
 
@@ -355,31 +410,51 @@ Couldn't we build something pretty cool if we started working together?
 
 ---
 
-## What does the National Trust for Historic Preservation try to teach?
-
-Note:
-
-<!-- TODO: Add a short summary of the learning objective activity and a link to a new learning objectives handout. -->
-
----
-
 ## What skills and concepts do _you_ want to teach?
 
 Note:
 
+Building networks of advocates
+- How to identify advocates and build a network
+- How to identify and prioritize advocacy issues
+- How to engage and mobilize a network for action
+
+Organizing and participating in coalitions
+- How to identify and approach coalition partners
+- How to build and sustain agreement around coalition goals
+- How to share responsibility (money, effort, time) among coalition partners
+
+Growing support from volunteers and donors
+- How to ask people for time and money
+- How to be accountable and ethical
+- How to make and implement a fundraising plan
+
+Creating equitable and inclusive communities
+- How to engage people and groups affected by inequity
+- How to gather and analyze data about inequity
+- How to identify strategies and resources to address root causes of inequities
+
+[Community Preservation Advocacy (Print) – Local Preservation School](https://docs.google.com/document/d/17FUhOo_1JmAb8BYrFIfMAlnEJCIZv1Sjc43qe9eIlzg/edit?usp=sharing)
+
 _Activity_: Help shape the lesson objectives for the Local Preservation School
 
-1. Start by reviewing the "lessons" outlined on the hand out.
-2. Give participants a few minutes of quiet to put a few thoughts onto paper.
+1. Start by reviewing the "lessons" outlined on the handout.
+2. Give participants a few minutes of quiet to write ideas out on cards.
 3. Ask people to share the ideas and skills they listed.
-4. Ask people to share the project ideas they listed.
-5. Once we define our topics, we need to set some priorities. Here are some possible approaches to soliciting priorities from workshop participants:  
+4. Tape ideas up on the board and invite people to categorize them.
+5. Ask people to share the project ideas they listed.
+6. Tape project ideas up adjacent to a related category of lessons.
+7. Explain the process of voting on cards and dividing into groups.
+8. Give participants a few minutes to vote.
+9. Tabulate the votes and review the final groups.
+
+<!-- TODO: Here are some possible approaches to soliciting priorities from workshop participants:  
   - [Card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
   - dot voting/idea rating ([info](http://www.idearatingsheets.org/vs-dot-voting))
-6. Optionally we can also look at the relationships between the topics using a hexagons-based activity:
+Optionally we can also look at the relationships between the topics using a hexagons-based activity:
   - Hexagons (see [video](https://www.youtube.com/watch?v=OEceTh7txew), [generator](http://www.classtools.net/hexagon/), [template](https://tracyannclark.com/2014/09/23/10-reasons-to-try-hexagonal-thinking/))
 
-<!-- TODO: Think more about the possibility of using hexagons or card sorting for the workshop. -->
+Think more about the possibility of using hexagons or card sorting for the workshop. -->
 
 Source: [P2PU](http://howto.p2pu.org/modules/learning/projects/)
 
@@ -529,7 +604,7 @@ Liz Lerman – Critical Response Process
 
 Source: ["I Like, I Wish, What If" Method of Feedback](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
-_Activity_: Peer feedback and critique (60 min – Molly/Eli)
+_Activity_: Peer feedback and critique (60 min)
  - Each pair/group presents a lesson
  - Participants respond with feedback/comments/suggestions
 
