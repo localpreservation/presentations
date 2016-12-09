@@ -124,13 +124,13 @@ We hope to teach you a bit about emerging approaches to open education but we al
 
 --
 
-![Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas](https://localpreservation.github.io/images/30602v.jpg)
+![Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas](https://localpreservation.github.io/assets/images/30602v.jpg)
 
 Note:
 
 What does the school teach? You get to decide. The Local Preservation School is a **work-in-progress** and we want you to be part of it.
 
-Image: [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/).
+Image: [Library of Congress](https://www.loc.gov/pictures/item/2015630838/resource/).
 
 --
 
@@ -138,7 +138,7 @@ Image: [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resourc
 
 --
 
-![Courtesy Library of Congress.](https://localpreservation.github.io/images/14293u.jpg)
+![Courtesy Library of Congress.](https://localpreservation.github.io/assets/images/14293u.jpg)
 
 Note:
 
@@ -199,7 +199,7 @@ Let's take a few minutes to explore what resources we already use to _teach_ and
   - What resources do you use to **learn**?
   - What makes a resource **useful** for you?
 
-Image: [Library of Congress](http://www.loc.gov/pictures/item/2010646348/)
+Image: [Library of Congress](https://www.loc.gov/pictures/item/2010646348/)
 
 ---
 
