@@ -395,7 +395,7 @@ These themes matter to the design and implementation of local and national polic
 
 --
 
-![Chart from Race Equity and Inclusion Action Guide (2014), Annie E. Casey Foundation](/presentations/images/2014-embracing-equity-chart.jpg)
+![Chart from Race Equity and Inclusion Action Guide (2014), Annie E. Casey Foundation](/presentations/images/2014-embracing-equity-presentation-chart.jpg)
 
 Note:
 
